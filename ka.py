@@ -3,7 +3,7 @@ import os
 from colorama import Fore,init
 import subprocess
 #ON KANEKI 
-im = ['omd', 'OMD',['i']]
+im = ['K', 'O',['666999666!']]
 os.system("clear")
 hello = input(Fore.MAGENTA+"""
 「山乇ㄥ匚ㄖ爪乇 ⊂(◉‿◉)つ」 
